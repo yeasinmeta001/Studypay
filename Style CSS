@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; }
+h1 { color: #2c3e50; }
+#posts, #tasks { margin: 20px; padding: 10px; border: 1px solid #ddd; }
+input, select, button { margin: 5px; padding: 5px; }
